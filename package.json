@@ -1,5 +1,5 @@
 {
-  "name": "sora",
+  "name": "aoraa",
   "version": "1.0.0",
   "main": "expo-router/entry",
   "scripts": {
@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "^51.0.17",
+    "expo": "^51.0.18",
     "expo-av": "~14.0.6",
     "expo-constants": "~16.0.2",
     "expo-device": "~6.0.2",
@@ -21,7 +21,7 @@
     "install": "^0.13.0",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
-    "react-native": "0.74.2",
+    "react-native": "0.74.3",
     "react-native-animatable": "^1.4.0",
     "react-native-appwrite": "^0.4.0",
     "react-native-gesture-handler": "~2.16.1",
