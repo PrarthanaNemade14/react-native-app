@@ -19,7 +19,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#ffffff",
+        "supportsTablet": true,
+        "package": "com.ara.aoraa"
       }
     },
     "web": {
