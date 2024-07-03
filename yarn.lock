@@ -6191,10 +6191,10 @@ react-native-animatable@^1.4.0:
   dependencies:
     prop-types "^15.8.1"
 
-react-native-appwrite@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.npmjs.org/react-native-appwrite/-/react-native-appwrite-0.2.2.tgz"
-  integrity sha512-7tPKqK1yexHh5wDRD2oqmEsDBrUjSJyMHK5XPNW5I/K7ks/cnER/KcpEJ/wCd1HEhjo4AtIqZBy5lL1PyV+rrA==
+react-native-appwrite@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/react-native-appwrite/-/react-native-appwrite-0.4.0.tgz#874f74d2e1468cfdb2fcfdd676359ffa80ec41a0"
+  integrity sha512-+zzKUY0ZdRE7ogdVjOlrWjlxP+x9Uc/hAIgWfcrXU8Obxx3y7ZSizYM/F7/ODPdkFHpQNlyXaCBDilrCRHgI7g==
   dependencies:
     expo-file-system "16.0.8"
     react-native "^0.73.6"
@@ -6248,7 +6248,7 @@ react-native-screens@3.31.1:
 
 react-native-url-polyfill@^2.0.0:
   version "2.0.0"
-  resolved "https://registry.npmjs.org/react-native-url-polyfill/-/react-native-url-polyfill-2.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/react-native-url-polyfill/-/react-native-url-polyfill-2.0.0.tgz#db714520a2985cff1d50ab2e66279b9f91ffd589"
   integrity sha512-My330Do7/DvKnEvwQc0WdcBnFPploYKp9CYlefDXzIdEaA+PAhDYllkvGeEroEzvc4Kzzj2O4yVdz8v6fjRvhA==
   dependencies:
     whatwg-url-without-unicode "8.0.0-3"
