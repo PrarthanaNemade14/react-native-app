@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "aoraa",
-    "scheme": "aora",
-    "slug": "aora",
+    "name": "sora",
+    "scheme": "sora",
+    "slug": "sora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,8 +20,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff",
-        "supportsTablet": true,
-        "package": "com.ara.aoraa"
+        "supportsTablet": true
       }
     },
     "web": {
