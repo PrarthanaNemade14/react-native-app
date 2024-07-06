@@ -3,6 +3,7 @@
     "name": "sora",
     "scheme": "sora",
     "slug": "sora",
+    "jsEngine": "hermes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,11 +14,13 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
+      "jsEngine": "hermes",
       "supportsTablet": true,
       "package": "com.ara.aoraa"
     },
     "android": {
       "adaptiveIcon": {
+        "jsEngine": "hermes",
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff",
         "supportsTablet": true
